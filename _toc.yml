@@ -3,6 +3,14 @@
 
 format: jb-book
 root: intro
+chapters:
+- file: getting-started
+- file: memory-management
+- file: data-structures
+- file: error-handling
+- file: functions-behavior
+- file: concurrency
+- file: advanced-topics
 options:
-  numbered: false
-  titlesonly: true
+  numbered: true
+  titlesonly: false
