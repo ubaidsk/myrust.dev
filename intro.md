@@ -1,11 +1,20 @@
-# Welcome to your Jupyter Book
+# MyRust.dev - FAQ Guide for Python & C++ Developers
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to **MyRust.dev** - your practical guide to Rust programming.
 
-Check out the content pages bundled with this sample book to see more.
+This site answers the questions every Python and C++ developer has when learning Rust. No fluff. Just practical answers.
 
-```{tableofcontents}
-```
+**Who is this for?**
+- Python developers who want to learn Rust
+- C++ developers transitioning to Rust
+- Software engineers looking for direct, simple explanations
+
+**What you'll find here:**
+- Clear answers to common questions
+- Simple comparisons between Rust and languages you know
+- Practical examples you can understand immediately
+
+Ready to start? Content coming soon.
+
+<!-- Table of contents will be added once chapters are created -->
+<!-- ```{tableofcontents}``` -->

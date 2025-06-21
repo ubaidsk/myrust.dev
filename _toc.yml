@@ -1,9 +1,8 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
+# Table of contents for MyRust.dev
+# FAQ-style guide for Python/C++ developers learning Rust
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+options:
+  numbered: false
+  titlesonly: true
