@@ -1,9 +1,9 @@
 # Book settings for myrust.dev
 # A learning resource for Python/C++ developers transitioning to Rust
 
-title: "MyRust.dev - Rust for Python & C++ Developers"
+title: "MyRust.dev"
 author: "MyRust.dev"
-logo: logo.png
+logo: logo.svg
 
 # Execution settings
 execute:
@@ -14,10 +14,6 @@ execute:
 latex:
   latex_documents:
     targetname: myrust-dev-guide.tex
-
-# Add a bibtex file for citations
-bibtex_bibfiles:
-  - references.bib
 
 # Website configuration
 repository:
@@ -31,14 +27,10 @@ html:
   use_repository_button: true
   use_edit_page_button: true
   use_download_button: false
-  favicon: "logo.png"
   home_page_in_navbar: true
   navbar_number_sections: false
   show_navbar_depth: 2
-  extra_footer: |
-    <div>
-      <p>© 2025 MyRust.dev - A learning resource for developers transitioning to Rust</p>
-    </div>
+  extra_footer: "<p>© 2025 MyRust.dev - A learning resource for developers transitioning to Rust</p>"
   google_analytics_id: ""  # Add your GA ID when ready
 
 # Search functionality
