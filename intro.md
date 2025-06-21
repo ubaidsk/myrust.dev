@@ -36,7 +36,7 @@ Start with [Getting Started](getting-started.md) and work through the sections t
 
 **Help us improve!** If you find:
 - Incorrect code examples
-- Misleading explanations  
+- Misleading explanations
 - Missing important concepts
 - Better ways to explain topics
 

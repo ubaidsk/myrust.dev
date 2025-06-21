@@ -17,20 +17,20 @@ latex:
 
 # Website configuration
 repository:
-  url: https://github.com/yourusername/myrust.dev  # Update with your actual repo
+  url: https://github.com/ubaidsk/myrust.dev  # Update with your actual repo
   path_to_book: .  # Book is at repository root
   branch: main
 
 # HTML theme and features
 html:
-  use_issues_button: false
+  use_issues_button: true
   use_repository_button: true
   use_edit_page_button: true
   use_download_button: false
   home_page_in_navbar: true
   navbar_number_sections: false
   show_navbar_depth: 2
-  extra_footer: "<p>© 2025 MyRust.dev - A learning resource for developers transitioning to Rust</p>"
+  extra_footer: "<p>© 2025 MyRust.dev - A learning resource for developers transitioning to Rust<br/><small><strong>AI-Generated Content:</strong> This site may contain errors. <a href='https://github.com/ubaidsk/myrust.dev/issues'>Help us improve it!</a></small></p>"
   google_analytics_id: ""  # Add your GA ID when ready
 
 # Search functionality
