@@ -87,4 +87,4 @@ jobs:
 
     steps:
     - name: Check build completed
-      run: echo "✅ Jupyter Book built successfully for PR #${{ github.event.number }}"
+      run: echo "✅ Jupyter Book built successfully for PR \#${{ github.event.number }}"
