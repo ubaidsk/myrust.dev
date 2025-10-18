@@ -24,6 +24,7 @@ fn main() {
 
     println!("Name: {}", person.name);
     println!("Age: {}", person.age);
+    println!("Email: {}", person.email);
 }
 ```
 
